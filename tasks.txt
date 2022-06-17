@@ -1,0 +1,17 @@
+Build the Contact Page
+The contact page includes your email address, as well as any other relevant information such as your LinkedIn profile or a personal photo.
+
+Style the content
+Now that you have your content, consider how you would like it to look. Do you want to arrange your projects in a grid? In an asymmetrical arrangement? What colors do you want to use to personalize the page?
+
+Make it interactive
+Use JavaScript to add interactivity to your website.
+
+Make it responsive
+Use responsive design to ensure that your page is viewable on multiple devices (desktop, tablet, mobile).
+
+Publish to the web
+Take what you’ve built and use GitHub pages to share with the world.
+
+Next Steps
+Congratulations on building your own portfolio! You’re welcome to expand your portfolio beyond these two pages. For example, you can include a page for each project that you’ve built.
